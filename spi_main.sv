@@ -73,7 +73,7 @@ output reg sclk,cs,mosi
  end
   
 endmodule
-===========================================
+//===========================================
  
 module spi_slave (
 input sclk, cs, mosi,
@@ -122,8 +122,15 @@ assign dout = temp;
 endmodule
  
  
+ interface spi_if;
+  logic rst;
+  logic newd;
+  logic clk;
+  logic [11:0] din;
+  logic [11:0] dout;
+endinterface
  
-======================================
+//======================================
 module top (
 input clk, rst, newd,
 input [11:0] din,
