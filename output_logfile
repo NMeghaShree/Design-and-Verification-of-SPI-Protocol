@@ -1,0 +1,31 @@
+# KERNEL: [DRV] : RESET DONE
+# KERNEL: -----------------------------------------
+# KERNEL: [GEN] : din : 935
+# KERNEL: [DRV] : DATA sent to scoreboard in Master : 935
+# KERNEL: [MON] : DATA SENT : 935
+# KERNEL: [SCO] : Data sent from Master DRV : 935 Data rcvd in Slave MON : 935
+# KERNEL: [SCO] : DATA MATCHED
+# KERNEL: -----------------------------------------
+# KERNEL: [GEN] : din : 4060
+# KERNEL: [DRV] : DATA sent to scoreboard in Master : 4060
+# KERNEL: [MON] : DATA SENT : 4060
+# KERNEL: [SCO] : Data sent from Master DRV : 4060 Data rcvd in Slave MON : 4060
+# KERNEL: [SCO] : DATA MATCHED
+# KERNEL: -----------------------------------------
+# KERNEL: [GEN] : din : 3576
+# KERNEL: [DRV] : DATA sent to scoreboard in Master : 3576
+# KERNEL: [MON] : DATA SENT : 3576
+# KERNEL: [SCO] : Data sent from Master DRV : 3576 Data rcvd in Slave MON : 3576
+# KERNEL: [SCO] : DATA MATCHED
+# KERNEL: -----------------------------------------
+# KERNEL: [GEN] : din : 3153
+# KERNEL: [DRV] : DATA sent to scoreboard in Master : 3153
+# KERNEL: [MON] : DATA SENT : 3153
+# KERNEL: [SCO] : Data sent from Master DRV : 3153 Data rcvd in Slave MON : 3153
+# KERNEL: [SCO] : DATA MATCHED
+# KERNEL: -----------------------------------------
+# RUNTIME: Info: RUNTIME_0068 testbench.sv (195): $finish called.
+# KERNEL: Time: 28130 ns,  Iteration: 2,  Instance: /tb,  Process: @INITIAL#221_3@.
+# KERNEL: stopped at time: 28130 ns
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
