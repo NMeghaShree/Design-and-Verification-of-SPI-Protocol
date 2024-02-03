@@ -125,7 +125,7 @@ endmodule
  interface spi_if;
   logic rst;
   logic newd;
-  logic clk;
+  logic clk,sclk,cs,mosi,done;;
   logic [11:0] din;
   logic [11:0] dout;
 endinterface
